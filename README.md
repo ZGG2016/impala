@@ -1,1 +1,1 @@
-# impala
+Apache Impala
